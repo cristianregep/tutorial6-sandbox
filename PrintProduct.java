@@ -18,7 +18,7 @@ public class PrintProduct extends ConsoleApplet {
 
       prod = x * y;
       console.putln();
-      console.put("The product is ");
+      console.put("The product should be ");
       console.putln(prod);
 
    } // end program()
