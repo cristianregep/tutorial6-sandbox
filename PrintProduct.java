@@ -1,9 +1,9 @@
-
 /* A trivial console applet that reads two
    numbers and prints their product.
 */
 // dummy change by Hans-Peter Hoellwirth
 // Scott Cantisani's dummy change
+// Dummy change by Kimberley McCann
 
 public class PrintProduct extends ConsoleApplet {
 
