@@ -4,6 +4,7 @@
 // dummy change by Hans-Peter Hoellwirth
 // Scott Cantisani's dummy change
 // Dummy change by Kimberley McCann
+// oh look, a dummy change! -Arturas Bagdonas
 
 public class PrintProduct extends ConsoleApplet {
 
